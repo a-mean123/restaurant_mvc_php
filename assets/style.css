@@ -1,0 +1,114 @@
+.carousel-inner{
+
+height: 800;
+
+}
+.paragreen{
+	color:brown;
+	font-family: lobster,cursive ;
+	font-style: italic ;
+	font-weight: bold;
+	font-size: 50px;
+	margin-left: 480px;
+	margin-bottom: 50px;
+	margin-top:70px;
+
+
+}
+.parapink{
+	color:green;
+
+}
+.parapurple{
+	color:purple;
+}
+.parabrown{
+	color:brown;
+	
+
+	}
+	
+
+}
+.paracontact {
+	color :skyblue;
+}
+.parahealthy {
+	color:brown ;
+	font-style: 
+	italic ;
+	font-family: 
+	URW Chancery L, cursive ;
+
+}
+
+.couverture {
+background-color: :moccasin;
+}
+
+
+.decouvre{
+
+margin-top:60px;
+color:brown;
+
+}
+
+.parac {
+	font-style: italic ;
+	font-family: Snell Roundhand , cursive  ;
+	padding-left:150px;
+	padding-right:150px;
+	color:#cfba87;
+}
+p {
+	padding-top: 20px
+
+}
+.cm{
+
+	margin-left: 70px;
+
+}
+.s {
+	color:#cfba87 ;
+	font-style: italic ;
+	font-family: Snell Roundhand , cursive ;
+	text-decoration: underline;
+
+}
+
+.list{
+	list-style-type: none;
+}
+
+
+
+
+.carousel-inner{
+
+height: 650px;
+
+}
+.maps {
+
+}
+.jihen {
+	margin-top:100px;
+}
+.dec{
+
+	font-family: 'Pacifico', cursive;
+	color: #cfba87;
+}
+
+.desc{
+
+	padding-right: 25px;
+}
+.couverturef {
+	background-color:moccasin;
+}
+.maps {
+	background-image:url("mapsss.jpg");
+}
